@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nvidia/ros/canopen/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/nvidia/ros/canopen/src/ros_canopen/canopen_402/include/**",
+        "/home/nvidia/ros/canopen/src/ros_canopen/canopen_chain_node/include/**",
+        "/home/nvidia/ros/canopen/src/ros_canopen/canopen_master/include/**",
+        "/home/nvidia/ros/canopen/src/ros_canopen/canopen_motor_node/include/**",
+        "/home/nvidia/ros/canopen/src/controllerCan/include/**",
+        "/home/nvidia/ros/canopen/src/ros_canopen/socketcan_bridge/include/**",
+        "/home/nvidia/ros/canopen/src/ros_canopen/socketcan_interface/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
